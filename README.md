@@ -1,4 +1,4 @@
-## Prueba técnica
+## Modelo de accesibilidad cultural
 
 ### Resumen
 
