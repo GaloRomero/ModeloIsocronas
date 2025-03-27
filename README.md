@@ -1,2 +1,1 @@
-# PruebaIdenCity
-Prueba técnica Idencity
+# Modelo Accesibilidad cultural
